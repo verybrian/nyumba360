@@ -1,6 +1,6 @@
 **Nyumba360** is a property management solution that simplifies property management with features like tenant management, income & expense tracking, and M-Pesa payment reconciliation among others. Built with modern web technologies and tailored for the Kenyan market.
 
-**[Try the Live Demo →](#)**
+**[Try the Live Demo →](https://nyumba360.onrender.com/d/)**
 
 ---
 
